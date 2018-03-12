@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- this style is for every file where Aciton Bar doesnt need to set-->
+    </style>
+
+
+
+
+    <style name="AppThemeNoBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+`
+        <!-- this is for the activity_main where we set Action Bar Dynamically-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="AppThemeNoBar.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppThemeNoBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- style for error in new EDITTEXT VIEW -->
+    <style name="error_appearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/magnitude9</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

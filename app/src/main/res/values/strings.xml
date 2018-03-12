@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">QuitIt</string>
+
+    <!-- this is needed in JAVA CODE -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="disease_1">Diabetes</string>
+    <string name="disease_2">High BloodPressure</string>
+    <string name="disease_3">Heart Problem</string>
+    <string name="disease_4">Disease 4</string>
+    <string name="disease_5">Disease5</string>
+    <string name="disease_6">Disease6</string>
+    <string name="disease_7">Disease7</string>
+    <string-array name="future_array">
+        <item>Aspiring to do a Job?</item>
+        <item>Thinking to start a family?</item>
+        <item>Item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+        <item>item7</item>
+        <item>item8</item>
+    </string-array>
+    <string name="email">Email Address</string>
+    <string name="contact_number">Contact number</string>
+
+    <string name="name">Name</string>
+    <string name="sex">Sex :</string>
+    <string name="businessEditTest">Profession :</string>
+    <string name="rupees">In Rupees</string>
+    <string name="age">Age </string>
+    <string name="bussiness">Profession :</string>
+    <string name="marital_status">Marital Status :</string>
+    <string name="fractionSpent">Fraction of salary spent :</string>
+    <string name="future_prompt">Choose One :</string>
+    <string name="address">Address</string>
+
+
+    <string name="chewing_history">Chewing History</string>
+    <string name="chewConsumption">Chews/day :</string>
+    <string name="chewing_history_time">How long have you been chewing?(Years, months)</string>
+    <string name="often_chewing_text_view">How many times do you chew in a day?</string>
+    <string name="cost_of_one_packet">Average cost of one packet</string>
+    <string name="consumption_tumbakoo">Packets per day :</string>
+    <string name="packets_one_day">Packets in one day</string>
+
+    <string name="smoking_history">Smoking History</string>
+    <string name="smokeConsumption">Smokes/day :</string>
+    <string name="cigarettes_one_day">Cigarettes Smoked in a Day</string>
+    <string name="smoking_history_time">How long have you been smoking?</string>
+    <string name="often_smoking_text_view">How many times do you smoke in a day?</string>
+    <string name="cost_of_one_ciggrete">What is the cost of one ciggerete?</string>
+
+
+    <string name="smoker">Ciggerates/Bidi/Hukkah</string>
+    <string name="chewer">Tambakoo/Gutka/Pan</string>
+    <string name="print">Print Report</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a patient</string>
+
+    <string name="update_patient">Update</string>
+
+    <string name="delete_patient">Delete</string>
+
+    <string name="view_all">View Details</string>
+    <string name="profession">Profession</string>
+    <string name="monthly_salary">Monthly Salary</string>
+    <string name="average_cost_of_each_ciggerate">Average cost of each ciggerate </string>
+    <string name="how_many_times_do_you_smoke_in_a_day">How many times do you smoke in a day?</string>
+    <string name="search_hint">Patient\'s Name</string>
+
+</resources>
