@@ -10,8 +10,8 @@
     <string name="disease_1">Diabetes</string>
     <string name="disease_2">High BloodPressure</string>
     <string name="disease_3">Heart Problem</string>
-    <string name="disease_4">Disease 4</string>
-    <string name="disease_5">Disease5</string>
+    <string name="disease_4">Obesity</string>
+    <string name="disease_5">Skin Cancer</string>
     <string name="disease_6">Disease6</string>
     <string name="disease_7">Disease7</string>
     <string-array name="future_array">
